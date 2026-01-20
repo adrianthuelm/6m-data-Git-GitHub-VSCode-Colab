@@ -1,36 +1,22 @@
-# 1.1: Insert Lesson Title
+## Git, GitHub, VS Code & Google Colab for Data Science
 
-## Dependencies
+**Instructor Persona:** Andrew Ng's Pedagogical Framework  
+**Duration:** 3 hours (180 minutes)  
+**Setting:** Classroom with hands-on lab setup  
+**Platforms:** Mac or Windows  
+**Goal:** Enable confident collaboration on data science projects using modern development tools
 
-Refer to the following markdown file for the respective sections of the class:
-- [Self Studies](./studies.md)
-- [Lesson](./lesson.md)
-- [Assignment](./assignment.md)
+---
 
-## Lesson Objectives
+## LEARNING OBJECTIVES
 
-Learners will understand:
-- Insert the knowledge to be acquired
+By the end of this 3-hour workshop, learners will be able to:
 
-Learners will be able to:
-- Insert the skillset to be acquired
+1. **Initialize and manage version-controlled projects** – Create a local Git repository, make meaningful commits with clear messages, and understand why version control is essential for collaborative data science projects.
 
-## Lesson Plan
+2. **Collaborate effectively on GitHub** – Push code to GitHub, create and merge pull requests, and resolve basic merge conflicts when working with teammates on shared projects.
 
-|Duration|What|How or Why|
-|--------|-----|-------|
-|- 5mins |Start zoom session|So that students can join early and start class on time|
-|10 mins|Self studies check-in|Prepare 3 questions for students to answer as a form of warm up and engaging students with the lesson topic.|
-|30 mins|Conceptual Knowledge| Instructors brief students on the subject matter conceptually before diving into hands on. This section can be shorter but not longer. Use video clips for explanation if necessary.|
-|20 mins|Code Along| Practical hands on|
-||**1 HR MARK**|
-|5 mins|Break|Break|
-|40 mins|Code Along| Practical hands on|
-|5 mins|Buffer|In case of overrun|
-|5 mins|Break||
-|5 mins|Assignment Briefing|Help students to understand the expectation and direction of the assignment to prevent mis-interpretations.|
-||**2 HR MARK**|
-|50 mins|Learners self attempt on assignments|
-|10 mins|Instructors assist learners to push changes to remote repository.|
-||**END CLASS 3 HR MARK**|
+3. **Execute a complete data science workflow** – Set up a project locally in VS Code, write and test Python code, connect to Google Colab for cloud-based experimentation, and sync results back to GitHub for team sharing.
+
+---
 
