@@ -1,17 +1,25 @@
-## Self Studies
+## REQUIRED MATERIALS & PREREQUISITES
 
-### Brief
+### Learner Prerequisites (Communicated in Advance)
 
-Technical knowledge is vast. Timebox yourself for 3 hours to work on the following content.
+1. **Software Installed BEFORE Class:**
+   - Git (download from git-scm.com)
+   - VS Code (download from code.visualstudio.com)
+   - Python 3.8+ (can use system Python or Anaconda)
+   - Send installation links 1 week prior
 
-### Video 
+2. **Accounts Created BEFORE Class:**
+   - GitHub account (free tier at github.com)
+   - Google account (for Colab access)
+   - Share account creation guide 1 week prior
 
-- add links
+3. **Basic Computer Literacy:**
+   - Navigate file system (Mac Finder / Windows File Explorer)
+   - Open terminal/command prompt
+   - Install software via installers
+   - Use browser to access websites
 
-### Readings
+4. **Optional But Helpful:**
+   - Basic Python familiarity (covered if needed in Section 3)
+   - Familiarity with terminal basics (can be refreshed in first 10 min)
 
-- add links
-
-### Helpful Links (References)
-
-- add links
