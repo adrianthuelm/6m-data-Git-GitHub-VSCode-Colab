@@ -2,8 +2,6 @@
 
 ### Objective: Reinforce learning; apply to M1 projects
 
-**Week 1 Post-Class:**
-
 1. **Solo Project Setup (45 min)** — Individual GitHub repo
    - Initialize your bootcamp project with Git
    - Create 5 commits with meaningful messages
@@ -13,8 +11,6 @@
 2. **Reflection Journal (15 min)** — Async, 200 words max
    - "What's one Git workflow you'll use this week?"
    - "Where did you feel stuck today? How did you solve it?"
-
-**Week 2-3 Post-Class:**
 
 3. **Team Project Git Workflow (Ongoing)**
    - Apply branching + PR workflow to group project
