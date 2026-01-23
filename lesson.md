@@ -6,6 +6,12 @@
 
 **Goal:** Empower non-technical learners to manage versions, sync work across devices, and collaborate using Git, GitHub, VS Code, and Google Colab.
 
+## **📖 Recommended Starting Point**
+
+Before diving into the workshop, we recommend going through this interactive Git introduction:
+
+**[Git Introduction Slides](https://pandelisz.github.io/git-intro-slides/#/1)** - A visual and beginner-friendly tutorial that covers the core concepts of Git.
+
 ## **🎯 Learning Objectives**
 
 By the end of this session, you will be able to:
