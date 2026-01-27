@@ -6,7 +6,7 @@
 
 **Goal:** Empower non-technical learners to manage versions, sync work across devices, and collaborate using Git, GitHub, VS Code, and Google Colab.
 
-Watch this intro video: [Demystifying Git and GitHub](https://youtu.be/N6C2htJxvQQ)
+Watch this intro video: [[Git & GitHub Zero to Hero]](https://youtu.be/1I79WAZ4uSU)
 
 ## **🎯 Learning Objectives**
 
